@@ -1,6 +1,10 @@
 # Tech Interviews
 ### Frequently asked questions in Tech Interviews
 
+### Coding
+
+https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/
+
 
 ## FAQ#1 : Difference between JWT (Java Web Tokens) & Oauth
 
