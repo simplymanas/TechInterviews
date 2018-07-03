@@ -32,6 +32,9 @@ https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon
 |forced to have lower expiry times to these tokens, as they are valid till the pre-defined rules re valid|
 
 
+
+
+
 ## FAQ#2 : Difference between Container and VM
 
 [differences](https://www.docker.com/what-container#/package_software)
@@ -45,3 +48,8 @@ https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon
 |A virtual machine is a convenient way of packaging up virtual hardware, a kernel, and a user space. |A container, on the other hand, packages up only the user space; there is no kernel or virtual hardware.|
 |![docker](https://rhelblog.files.wordpress.com/2015/09/user-space-vs-kernel-space-virtualization-vs-containerization11.png?w=640&h=254&zoom=2)|![VM](https://rhelblog.files.wordpress.com/2015/09/user-space-vs-kernel-space-virtualization-vs-containerization11.png?w=640&h=254&zoom=2)|
 |Sharing an entire virtual machine with other developers can be inconvenient because of a virtual machine’s size and format|Containers have the advantage of providing developers, architects, quality engineering, release engineers, and systems administrators with a currency for collaboration that has the entire user space packaged and shipped in a convenient and easy to use format.|
+
+
+## FAQ#3 : CAP Therorem
+
+https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed
