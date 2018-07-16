@@ -5,6 +5,10 @@
 
 https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/
 
+### Web Architecture 101
+
+https://engineering.videoblocks.com/web-architecture-101-a3224e126947
+
 
 ## FAQ#1 : Difference between JWT (Java Web Tokens) & Oauth
 
