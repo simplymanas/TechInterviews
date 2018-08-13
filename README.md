@@ -1,6 +1,10 @@
 # Tech Interviews
 ### Frequently asked questions in Tech Interviews
 
+### Design
+
+https://github.com/shashank88/system_design
+
 ### Coding
 
 https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/
