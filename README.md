@@ -5,6 +5,8 @@
 
 https://github.com/shashank88/system_design
 
+http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html
+
 ### Coding
 
 https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/
