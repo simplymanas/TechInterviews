@@ -9,11 +9,26 @@ http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bou
 
 https://github.com/donnemartin/system-design-primer
 
+https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444
+
+http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html
+
+https://medium.com/@shivangsarawagi/design-an-online-movie-ticket-booking-system-like-bookmyshow-com-a247214a63e3
+
+
 ### Coding
 
 https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/
 
 https://github.com/donnemartin/interactive-coding-challenges
+
+https://simpleprogrammer.com/programming-interview-questions/
+
+
+### Networking
+
+https://career.guru99.com/top-100-networking-interview-questions-answers/
+
 
 ### Almost Everything
 
