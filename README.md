@@ -29,6 +29,15 @@ https://simpleprogrammer.com/programming-interview-questions/
 
 https://career.guru99.com/top-100-networking-interview-questions-answers/
 
+### Database
+
+https://www.kdnuggets.com/2016/07/seven-steps-understanding-nosql-databases.html
+
+
+### Process & Standard
+
+https://engineering.videoblocks.com/these-four-clean-code-tips-will-dramatically-improve-your-engineering-teams-productivity-b5bd121dd150
+
 
 ### Almost Everything
 
