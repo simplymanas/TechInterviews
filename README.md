@@ -24,6 +24,19 @@ https://github.com/donnemartin/interactive-coding-challenges
 
 https://simpleprogrammer.com/programming-interview-questions/
 
+### DDD
+
+https://hackernoon.com/how-to-define-service-boundaries-251c4fc0f205
+https://hackernoon.com/capability-mapping-and-context-mapping-95cf862f0753
+
+### JAVA
+
+https://dzone.com/articles/top-10-java-interview-questions-that-i-recently-fa?edition=385432&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=Weekly%20Digest%202018-08-29
+
+### REST
+
+https://restfulapi.net/
+
 
 ### Networking
 
