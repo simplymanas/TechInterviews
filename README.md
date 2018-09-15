@@ -15,6 +15,12 @@ http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bou
 
 https://medium.com/@shivangsarawagi/design-an-online-movie-ticket-booking-system-like-bookmyshow-com-a247214a63e3
 
+https://medium.com/netflix-techblog/system-architectures-for-personalization-and-recommendation-e081aa94b5d8?_sm_au_=iVVV1H5rMRH7P7NQ
+
+https://medium.com/netflix-techblog/full-cycle-developers-at-netflix-a08c31f83249
+
+
+
 
 ### Coding
 
