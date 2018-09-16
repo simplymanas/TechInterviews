@@ -9,6 +9,8 @@ http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bou
 
 https://github.com/donnemartin/system-design-primer
 
+https://medium.com/kokster/highly-available-redis-architecture-613c89f887b4
+
 https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444
 
 http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html
@@ -19,7 +21,11 @@ https://medium.com/netflix-techblog/system-architectures-for-personalization-and
 
 https://medium.com/netflix-techblog/full-cycle-developers-at-netflix-a08c31f83249
 
+### Scaling
 
+http://www.erlang-factory.com/upload/presentations/558/efsf2012-whatsapp-scaling.pdf?_sm_au_=iVVV1H5rMRH7P7NQ
+
+https://vimeo.com/44312354?_sm_au_=iVVV1H5rMRH7P7NQ
 
 
 ### Coding
@@ -33,20 +39,28 @@ https://simpleprogrammer.com/programming-interview-questions/
 ### DDD
 
 https://hackernoon.com/how-to-define-service-boundaries-251c4fc0f205
+
 https://hackernoon.com/capability-mapping-and-context-mapping-95cf862f0753
+
+https://medium.com/the-coding-matrix/ddd-101-the-5-minute-tour-7a3037cf53b8
 
 ### JAVA
 
 https://dzone.com/articles/top-10-java-interview-questions-that-i-recently-fa?edition=385432&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=Weekly%20Digest%202018-08-29
 
+https://dzone.com/articles/java-copy-shallow-vs-deep-in-which-you-will-swim
+
 ### REST
 
 https://restfulapi.net/
+
+https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design
 
 
 ### Networking
 
 https://career.guru99.com/top-100-networking-interview-questions-answers/
+
 
 ### Database
 
