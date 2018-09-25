@@ -36,6 +36,9 @@ https://github.com/donnemartin/interactive-coding-challenges
 
 https://simpleprogrammer.com/programming-interview-questions/
 
+https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0
+
+
 ### DDD
 
 https://hackernoon.com/how-to-define-service-boundaries-251c4fc0f205
