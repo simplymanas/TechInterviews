@@ -21,6 +21,8 @@ https://medium.com/netflix-techblog/system-architectures-for-personalization-and
 
 https://medium.com/netflix-techblog/full-cycle-developers-at-netflix-a08c31f83249
 
+https://github.com/sjuvekar/System-Design-Case-Studies/blob/master/studies/dropbox.md
+
 ### Scaling
 
 http://www.erlang-factory.com/upload/presentations/558/efsf2012-whatsapp-scaling.pdf?_sm_au_=iVVV1H5rMRH7P7NQ
@@ -44,6 +46,14 @@ https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-
 https://hackernoon.com/how-to-define-service-boundaries-251c4fc0f205
 
 https://hackernoon.com/capability-mapping-and-context-mapping-95cf862f0753
+
+### Coruses
+
+https://www.safaribooksonline.com/videos/learn-design-patterns
+
+https://www.safaribooksonline.com/videos/break-away-programming
+
+https://www.safaribooksonline.com/videos/java-interview-guide
 
 https://medium.com/the-coding-matrix/ddd-101-the-5-minute-tour-7a3037cf53b8
 
