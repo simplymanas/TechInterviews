@@ -141,3 +141,9 @@ https://engineering.videoblocks.com/web-architecture-101-a3224e126947
 ## FAQ#3 : CAP Therorem
 
 https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed
+
+## FAQ#4 : Difference between Redis and Memcache
+
+https://stackoverflow.com/questions/10558465/memcached-vs-redis
+
+
