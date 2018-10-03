@@ -75,6 +75,11 @@ https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design
 https://career.guru99.com/top-100-networking-interview-questions-answers/
 
 
+### Design Pattern
+
+https://dzone.com/refcardz/design-patterns?chapter=1
+
+
 ### Database
 
 https://www.kdnuggets.com/2016/07/seven-steps-understanding-nosql-databases.html
