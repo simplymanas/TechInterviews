@@ -99,6 +99,10 @@ https://www.kdnuggets.com/2016/07/seven-steps-understanding-nosql-databases.html
 https://engineering.videoblocks.com/these-four-clean-code-tips-will-dramatically-improve-your-engineering-teams-productivity-b5bd121dd150
 
 
+### Success Stories
+
+https://medium.freecodecamp.org/how-to-system-design-dda63ed27e26
+
 ### Almost Everything
 
 https://github.com/andreis/interview
