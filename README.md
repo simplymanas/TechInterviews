@@ -23,6 +23,8 @@ https://medium.com/netflix-techblog/full-cycle-developers-at-netflix-a08c31f8324
 
 https://github.com/sjuvekar/System-Design-Case-Studies/blob/master/studies/dropbox.md
 
+https://github.com/checkcheckzz/system-design-interview
+
 ### Scaling
 
 http://www.erlang-factory.com/upload/presentations/558/efsf2012-whatsapp-scaling.pdf?_sm_au_=iVVV1H5rMRH7P7NQ
@@ -172,5 +174,19 @@ https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed
 ## FAQ#4 : Difference between Redis and Memcache
 
 https://stackoverflow.com/questions/10558465/memcached-vs-redis
+
+## FAQ#5 : Why Databases shouldn't be used as Message Queues
+
+https://www.youtube.com/watch?v=9T-gNZ5bGCw
+
+Here are possible drawbacks:
+
+1) Polling intervals have to be set correctly. Too long makes the system is inefficient. Too short makes the database undergo heavy read load.
+2) Read and write operation heavy DB. Usually, they are good at one of the two.
+3) Manual delete procedures to be written to remove read messages.
+4) Scaling is difficult conceptually and physically.
+
+
+
 
 
