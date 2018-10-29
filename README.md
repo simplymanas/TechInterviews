@@ -112,6 +112,15 @@ https://github.com/andreis/interview
 https://engineering.videoblocks.com/web-architecture-101-a3224e126947
 
 
+### Online Videos
+
+https://www.youtube.com/watch?v=CtmBGH8MkX4
+
+https://www.youtube.com/watch?v=KmAyPUv9gOY&t=449s
+
+https://www.youtube.com/watch?v=wYk0xPP_P_8&list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV&index=3
+
+
 ## FAQ#1 : Difference between JWT (Java Web Tokens) & Oauth
 
 ### links
