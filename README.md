@@ -25,6 +25,10 @@ https://github.com/sjuvekar/System-Design-Case-Studies/blob/master/studies/dropb
 
 https://github.com/checkcheckzz/system-design-interview
 
+### how web works
+
+https://github.com/vasanthk/how-web-works
+
 ### Scaling
 
 http://www.erlang-factory.com/upload/presentations/558/efsf2012-whatsapp-scaling.pdf?_sm_au_=iVVV1H5rMRH7P7NQ
