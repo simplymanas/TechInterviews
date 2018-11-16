@@ -25,6 +25,8 @@ https://github.com/sjuvekar/System-Design-Case-Studies/blob/master/studies/dropb
 
 https://github.com/checkcheckzz/system-design-interview
 
+https://hackernoon.com/building-conclave-a-decentralized-real-time-collaborative-text-editor-a6ab438fe79f
+
 ### how web works
 
 https://github.com/vasanthk/how-web-works
