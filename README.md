@@ -128,6 +128,8 @@ https://www.youtube.com/watch?v=KmAyPUv9gOY&t=449s
 
 https://www.youtube.com/watch?v=wYk0xPP_P_8&list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV&index=3
 
+[All about algorithms](https://youtu.be/9TlHvipP5yA)
+
 
 ## FAQ#1 : Difference between JWT (Java Web Tokens) & Oauth
 
