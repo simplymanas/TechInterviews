@@ -1,5 +1,5 @@
 # Tech Interviews
-### Frequently asked questions in Tech Interviews
+### This might be your next question...
 
 ### Design
 
