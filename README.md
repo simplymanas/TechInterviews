@@ -135,6 +135,8 @@ https://www.youtube.com/watch?v=wYk0xPP_P_8&list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5
 
 [All about algorithms](https://youtu.be/9TlHvipP5yA)
 
+[Tech Primers](https://youtu.be/Wa_q8C6Qo68)
+
 
 ## FAQ#1 : Difference between JWT (Java Web Tokens) & Oauth
 
