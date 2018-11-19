@@ -38,6 +38,11 @@ http://www.erlang-factory.com/upload/presentations/558/efsf2012-whatsapp-scaling
 https://vimeo.com/44312354?_sm_au_=iVVV1H5rMRH7P7NQ
 
 
+### Microservices
+
+https://docs.aws.amazon.com/aws-technical-content/latest/microservices-on-aws/introduction.html
+
+
 ### Coding
 
 https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/
