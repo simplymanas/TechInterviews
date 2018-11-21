@@ -68,6 +68,9 @@ https://hackernoon.com/capability-mapping-and-context-mapping-95cf862f0753
 
 https://www.mnot.net/cache_docs/?_sm_au_=iVVV1H5rMRH7P7NQ
 
+### Security
+
+https://www.youtube.com/watch?v=otWst36CKyM
 
 ### Courses
 
