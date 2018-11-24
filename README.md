@@ -72,6 +72,10 @@ https://www.mnot.net/cache_docs/?_sm_au_=iVVV1H5rMRH7P7NQ
 
 https://www.youtube.com/watch?v=otWst36CKyM
 
+### Login system
+
+https://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication/477578#477578
+
 ### Courses
 
 https://www.safaribooksonline.com/videos/learn-design-patterns
