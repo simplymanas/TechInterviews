@@ -1,46 +1,48 @@
-# Tech Interviews
+# Tech Interviews - in search for that missing link
+##### about.me/simplymanas
 ### This might be your next question...
 
-### Design
-
-https://github.com/shashank88/system_design
-
-http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html
-
-https://github.com/donnemartin/system-design-primer
-
-https://medium.com/kokster/highly-available-redis-architecture-613c89f887b4
-
-https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444
-
-http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html
-
-https://medium.com/@shivangsarawagi/design-an-online-movie-ticket-booking-system-like-bookmyshow-com-a247214a63e3
-
-https://medium.com/netflix-techblog/system-architectures-for-personalization-and-recommendation-e081aa94b5d8?_sm_au_=iVVV1H5rMRH7P7NQ
-
-https://medium.com/netflix-techblog/full-cycle-developers-at-netflix-a08c31f83249
-
-https://github.com/sjuvekar/System-Design-Case-Studies/blob/master/studies/dropbox.md
-
-https://github.com/checkcheckzz/system-design-interview
-
-https://hackernoon.com/building-conclave-a-decentralized-real-time-collaborative-text-editor-a6ab438fe79f
-
-### how web works
-
-https://github.com/vasanthk/how-web-works
-
-### Scaling
-
-http://www.erlang-factory.com/upload/presentations/558/efsf2012-whatsapp-scaling.pdf?_sm_au_=iVVV1H5rMRH7P7NQ
-
-https://vimeo.com/44312354?_sm_au_=iVVV1H5rMRH7P7NQ
+## System Design
 
 
-### Microservices
+[High Scalability blog](http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html)
 
-https://docs.aws.amazon.com/aws-technical-content/latest/microservices-on-aws/introduction.html
+[Systme desgin primer by donne martin](https://github.com/donnemartin/system-design-primer)
+
+[System Desgin by Shashank](https://github.com/shashank88/system_design)
+
+[REdis architecture](https://medium.com/kokster/highly-available-redis-architecture-613c89f887b4)
+
+[System Desgin Interview Question](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444)
+[cont..](https://github.com/checkcheckzz/system-design-interview)
+
+[Whatsapp](http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html)
+
+[Online Movie Ticket booking](https://medium.com/@shivangsarawagi/design-an-online-movie-ticket-booking-system-like-bookmyshow-com-a247214a63e3)
+
+[Recommedation and personalisation](https://medium.com/netflix-techblog/system-architectures-for-personalization-and-recommendation-e081aa94b5d8?_sm_au_=iVVV1H5rMRH7P7NQ)
+
+[Netflix Developer](https://medium.com/netflix-techblog/full-cycle-developers-at-netflix-a08c31f83249)
+
+[System desgin case studies](https://github.com/sjuvekar/System-Design-Case-Studies/blob/master/studies/dropbox.md)
+
+[System desgin for collab edit](https://hackernoon.com/building-conclave-a-decentralized-real-time-collaborative-text-editor-a6ab438fe79f)
+
+### [how web works ](https://github.com/vasanthk/how-web-works)
+
+
+### [How does HTTPS actually work?](https://robertheaton.com/2014/03/27/how-does-https-actually-work/)
+
+## Scaling
+
+[Whatsapp](http://www.erlang-factory.com/upload/presentations/558/efsf2012-whatsapp-scaling.pdf?_sm_au_=iVVV1H5rMRH7P7NQ)
+
+[cont....](https://vimeo.com/44312354?_sm_au_=iVVV1H5rMRH7P7NQ)
+
+
+## Microservices
+
+[at amazon](https://docs.aws.amazon.com/aws-technical-content/latest/microservices-on-aws/introduction.html)
 
 
 ### Coding
