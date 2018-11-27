@@ -2,12 +2,6 @@
 ##### about.me/simplymanas
 ### This might be your next question...
 
-
-## Architecture
-
-https://dzone.com/articles/lean-architecture-1?edition=407289&utm_source=Zone%20Newsletter&utm_medium=email&utm_campaign=agile%202018-11-13
-
-
 ## System Design
 
 
@@ -17,7 +11,7 @@ https://dzone.com/articles/lean-architecture-1?edition=407289&utm_source=Zone%20
 
 [System Desgin by Shashank](https://github.com/shashank88/system_design)
 
-[REdis architecture](https://medium.com/kokster/highly-available-redis-architecture-613c89f887b4)
+[Redis architecture](https://medium.com/kokster/highly-available-redis-architecture-613c89f887b4)
 
 [System Desgin Interview Question](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444)
 [cont..](https://github.com/checkcheckzz/system-design-interview)
@@ -50,45 +44,41 @@ https://dzone.com/articles/lean-architecture-1?edition=407289&utm_source=Zone%20
 
 [at amazon](https://docs.aws.amazon.com/aws-technical-content/latest/microservices-on-aws/introduction.html)
 
-https://dzone.com/articles/9-fundamentals-to-a-successful-microservice-design?edition=417209&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-11-10
 
-## Devops
-https://dzone.com/articles/100-devops-terms-or-what-does-your-devops-say?edition=417241&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=Weekly%20Digest%202018-11-21
+## Coding
 
-### Coding
+[Interview Question - geekForgeek](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
 
-https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/
+[Interview Question - DonneMartin](https://github.com/donnemartin/interactive-coding-challenges)
 
-https://github.com/donnemartin/interactive-coding-challenges
+[Interview Question - simple programmer](https://simpleprogrammer.com/programming-interview-questions/)
 
-https://simpleprogrammer.com/programming-interview-questions/
+[Interview Question - hackernoon](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
 
-https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0
+[Interview Question - LeetCode](https://leetcode.com/explore/featured/card/top-interview-questions-easy/)
 
-https://leetcode.com/explore/featured/card/top-interview-questions-easy/
-
-https://github.com/donbeave/interview
+[Data Structures and Algorithms in Java](https://github.com/donbeave/interview)
 
 
-### DDD
+## DDD (Domain Driven Design)
 
-https://hackernoon.com/how-to-define-service-boundaries-251c4fc0f205
+[How to define service industries](https://hackernoon.com/how-to-define-service-boundaries-251c4fc0f205)
 
-https://hackernoon.com/capability-mapping-and-context-mapping-95cf862f0753
+[Capability-mapping-and-context-mapping](https://hackernoon.com/capability-mapping-and-context-mapping-95cf862f0753)
 
-### Caching
+## Caching
 
 https://www.mnot.net/cache_docs/?_sm_au_=iVVV1H5rMRH7P7NQ
 
-### Security
+## Security
 
 https://www.youtube.com/watch?v=otWst36CKyM
 
-### Login system
+## Login system
 
 https://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication/477578#477578
 
-### Courses
+## Courses
 
 https://www.safaribooksonline.com/videos/learn-design-patterns
 
@@ -98,30 +88,30 @@ https://www.safaribooksonline.com/videos/java-interview-guide
 
 https://medium.com/the-coding-matrix/ddd-101-the-5-minute-tour-7a3037cf53b8
 
-### JAVA
+## JAVA
 
 https://dzone.com/articles/top-10-java-interview-questions-that-i-recently-fa?edition=385432&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=Weekly%20Digest%202018-08-29
 
 https://dzone.com/articles/java-copy-shallow-vs-deep-in-which-you-will-swim
 
-### REST
+## REST
 
 https://restfulapi.net/
 
 https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design
 
 
-### Networking
+## Networking
 
 https://career.guru99.com/top-100-networking-interview-questions-answers/
 
 
-### Design Pattern
+## Design Pattern
 
 https://dzone.com/refcardz/design-patterns?chapter=1
 
 
-### Database
+## Database
 
 https://www.kdnuggets.com/2016/07/seven-steps-understanding-nosql-databases.html
 
@@ -131,20 +121,20 @@ https://www.kdnuggets.com/2016/07/seven-steps-understanding-nosql-databases.html
 https://engineering.videoblocks.com/these-four-clean-code-tips-will-dramatically-improve-your-engineering-teams-productivity-b5bd121dd150
 
 
-### Success Stories
+## Success Stories
 
 https://medium.freecodecamp.org/how-to-system-design-dda63ed27e26
 
-### Almost Everything
+## Almost Everything
 
 https://github.com/andreis/interview
 
-### Web Architecture 101
+## Web Architecture 101
 
 https://engineering.videoblocks.com/web-architecture-101-a3224e126947
 
 
-### Online Videos
+## Online Videos
 
 https://www.youtube.com/watch?v=CtmBGH8MkX4
 
