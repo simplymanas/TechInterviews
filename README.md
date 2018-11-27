@@ -2,6 +2,12 @@
 ##### about.me/simplymanas
 ### This might be your next question...
 
+
+## Architecture
+
+https://dzone.com/articles/lean-architecture-1?edition=407289&utm_source=Zone%20Newsletter&utm_medium=email&utm_campaign=agile%202018-11-13
+
+
 ## System Design
 
 
@@ -44,6 +50,10 @@
 
 [at amazon](https://docs.aws.amazon.com/aws-technical-content/latest/microservices-on-aws/introduction.html)
 
+https://dzone.com/articles/9-fundamentals-to-a-successful-microservice-design?edition=417209&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-11-10
+
+## Devops
+https://dzone.com/articles/100-devops-terms-or-what-does-your-devops-say?edition=417241&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=Weekly%20Digest%202018-11-21
 
 ### Coding
 
