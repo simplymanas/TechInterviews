@@ -69,9 +69,12 @@
 
 [Capability-mapping-and-context-mapping](https://hackernoon.com/capability-mapping-and-context-mapping-95cf862f0753)
 
+[DDD the 5 mintue master](https://medium.com/the-coding-matrix/ddd-101-the-5-minute-tour-7a3037cf53b8)
+
+
 ## Caching
 
-https://www.mnot.net/cache_docs/?_sm_au_=iVVV1H5rMRH7P7NQ
+[Caching Tutorial for Web Authors and Webmasters](https://www.mnot.net/cache_docs/?_sm_au_=iVVV1H5rMRH7P7NQ)
 
 ## Security
 
@@ -79,62 +82,60 @@ https://www.youtube.com/watch?v=otWst36CKyM
 
 ## Login system
 
-https://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication/477578#477578
+[Definitive guide for website authentication](https://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication/477578#477578)
 
 ## Courses
 
-https://www.safaribooksonline.com/videos/learn-design-patterns
+[Safari Books - Learn design pattern](https://www.safaribooksonline.com/videos/learn-design-patterns)
 
-https://www.safaribooksonline.com/videos/break-away-programming
+[Safari Books - Break away system](https://www.safaribooksonline.com/videos/break-away-programming)
 
-https://www.safaribooksonline.com/videos/java-interview-guide
+[Safari books - Java Inteview Guide](https://www.safaribooksonline.com/videos/java-interview-guide)
 
-https://medium.com/the-coding-matrix/ddd-101-the-5-minute-tour-7a3037cf53b8
 
 ## JAVA
 
-https://dzone.com/articles/top-10-java-interview-questions-that-i-recently-fa?edition=385432&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=Weekly%20Digest%202018-08-29
+[10 JAVA interview question](https://dzone.com/articles/top-10-java-interview-questions-that-i-recently-fa?edition=385432&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=Weekly%20Digest%202018-08-29)
 
-https://dzone.com/articles/java-copy-shallow-vs-deep-in-which-you-will-swim
 
 ## REST
 
-https://restfulapi.net/
+[RESTful APIs ](https://restfulapi.net/)
 
-https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design
+[Microsoft Dcouments on API-Design best practice](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 
 
 ## Networking
 
-https://career.guru99.com/top-100-networking-interview-questions-answers/
+[100 networking question](https://career.guru99.com/top-100-networking-interview-questions-answers/)
 
 
 ## Design Pattern
 
-https://dzone.com/refcardz/design-patterns?chapter=1
+[Design PAttern](https://dzone.com/refcardz/design-patterns?chapter=1)
 
 
 ## Database
 
-https://www.kdnuggets.com/2016/07/seven-steps-understanding-nosql-databases.html
+[Understanding nosql](https://www.kdnuggets.com/2016/07/seven-steps-understanding-nosql-databases.html)
 
 
 ### Process & Standard
 
-https://engineering.videoblocks.com/these-four-clean-code-tips-will-dramatically-improve-your-engineering-teams-productivity-b5bd121dd150
+[Clean Code](https://engineering.videoblocks.com/these-four-clean-code-tips-will-dramatically-improve-your-engineering-teams-productivity-b5bd121dd150)
 
 
 ## Success Stories
 
-https://medium.freecodecamp.org/how-to-system-design-dda63ed27e26
+[System Desgin](https://medium.freecodecamp.org/how-to-system-design-dda63ed27e26)
 
 ## Almost Everything
 
-https://github.com/andreis/interview
+[Everything](https://github.com/andreis/interview)
 
 ## Web Architecture 101
 
-https://engineering.videoblocks.com/web-architecture-101-a3224e126947
+[Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
 
 
 ## Online Videos
@@ -155,6 +156,8 @@ https://www.youtube.com/watch?v=wYk0xPP_P_8&list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5
 ### links
 
 [jwt-vs-oauth](https://community.apigee.com/questions/21139/jwt-vs-oauth.html)
+
+[Deep Copy vs Swallow Copy](https://dzone.com/articles/java-copy-shallow-vs-deep-in-which-you-will-swim)
 
 [RFC7519](https://tools.ietf.org/html/rfc7519)
 
