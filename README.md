@@ -33,6 +33,10 @@
 
 ### [How does HTTPS actually work?](https://robertheaton.com/2014/03/27/how-does-https-actually-work/)
 
+## Architecutre
+
+[Cassandra](https://docs.datastax.com/en/archived/cassandra/2.1/cassandra/architecture/architectureIntro_c.html)
+
 ## Scaling
 
 [Whatsapp](http://www.erlang-factory.com/upload/presentations/558/efsf2012-whatsapp-scaling.pdf?_sm_au_=iVVV1H5rMRH7P7NQ)
