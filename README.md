@@ -105,7 +105,7 @@ https://www.youtube.com/watch?v=otWst36CKyM
 ## JAVA
 
 [10 JAVA interview question](https://dzone.com/articles/top-10-java-interview-questions-that-i-recently-fa?edition=385432&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=Weekly%20Digest%202018-08-29)
-
+[Java Interview question](https://www.edureka.co/blog/interview-questions/java-interview-questions/)
 
 ## REST
 
