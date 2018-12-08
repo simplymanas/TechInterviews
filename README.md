@@ -1,5 +1,7 @@
-# Tech Interviews - in search for that missing link
-##### about.me/simplymanas
+
+# Tech Interviews 
+### in search for that missing link
+##### [AboutMe](about.me/simplymanas)    [Blog](http://manasdash.thoughts2share.in/)
 ### This might be your next question...
 
 ## System Design
@@ -17,8 +19,6 @@
 [System Desgin Interview Question](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444)
 [cont..](https://github.com/checkcheckzz/system-design-interview)
 
-[Whatsapp](http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html)
-
 [Online Movie Ticket booking](https://medium.com/@shivangsarawagi/design-an-online-movie-ticket-booking-system-like-bookmyshow-com-a247214a63e3)
 
 [Recommedation and personalisation](https://medium.com/netflix-techblog/system-architectures-for-personalization-and-recommendation-e081aa94b5d8?_sm_au_=iVVV1H5rMRH7P7NQ)
@@ -29,12 +29,9 @@
 
 [System desgin for collab edit](https://hackernoon.com/building-conclave-a-decentralized-real-time-collaborative-text-editor-a6ab438fe79f)
 
+[How web works ](https://github.com/vasanthk/how-web-works)
 
-### [Design Pattern](https://www.javatpoint.com/creational-design-patterns)
-
-### [how web works ](https://github.com/vasanthk/how-web-works)
-
-### [Bloom Filter](https://hur.st/bloomfilter/)
+[Bloom Filter](https://hur.st/bloomfilter/)
 
 ### [How does HTTPS actually work?](https://robertheaton.com/2014/03/27/how-does-https-actually-work/)
 
@@ -42,11 +39,13 @@
 
 [Cassandra](https://docs.datastax.com/en/archived/cassandra/2.1/cassandra/architecture/architectureIntro_c.html)
 
+[Whatsapp Architecture](http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html)
+
 ## Scaling
 
 [Whatsapp](http://www.erlang-factory.com/upload/presentations/558/efsf2012-whatsapp-scaling.pdf?_sm_au_=iVVV1H5rMRH7P7NQ)
 
-[cont....](https://vimeo.com/44312354?_sm_au_=iVVV1H5rMRH7P7NQ)
+[Whatsapp Scaling](https://vimeo.com/44312354?_sm_au_=iVVV1H5rMRH7P7NQ)
 
 
 ## Microservices
@@ -121,8 +120,9 @@ https://www.youtube.com/watch?v=otWst36CKyM
 
 ## Design Pattern
 
-[Design PAttern](https://dzone.com/refcardz/design-patterns?chapter=1)
+[Design Pattern - DZONE](https://dzone.com/refcardz/design-patterns?chapter=1)
 
+ [Design Pattern - JavaTPoint](https://www.javatpoint.com/creational-design-patterns)
 
 ## Database
 
@@ -161,8 +161,6 @@ https://www.youtube.com/watch?v=wYk0xPP_P_8&list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5
 
 
 ## FAQ#1 : Difference between JWT (Java Web Tokens) & Oauth
-
-### links
 
 [jwt-vs-oauth](https://community.apigee.com/questions/21139/jwt-vs-oauth.html)
 
@@ -226,6 +224,16 @@ Here are possible drawbacks:
 4) Scaling is difficult conceptually and physically.
 
 
+## Same thoughts from github
+
+[interview by rockoder](https://github.com/rockoder/interview)
 
 
+## Conclusion
+
+These are just pointer where you can get some more details about particular topic, but almost all of them required working knowledge for a deep dive and more thoughts on using the same.
+
+All the best for your next round :)
+
+Manas
 
