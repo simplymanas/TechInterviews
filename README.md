@@ -71,6 +71,13 @@
 
 [Data Structures and Algorithms in Java](https://github.com/donbeave/interview)
 
+## Datastructure
+
+[All about tree](https://www.codementor.io/leandrotk100/everything-you-need-to-know-about-tree-data-structures-pynnlkyud)
+
+[How To Not Be Stumped By Trees](https://medium.com/basecs/how-to-not-be-stumped-by-trees-5f36208f68a7)
+
+[Vaidehi Joshi's world of Datastructure](https://medium.com/basecs)
 
 ## DDD (Domain Driven Design)
 
