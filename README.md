@@ -76,6 +76,9 @@
 
 [Explanation of the solution](https://medium.com/the-renaissance-developer/problem-solving-skills-add-two-numbers-1db9af05039)
 
+
+[Ultimate Guide](https://medium.freecodecamp.org/the-ultimate-guide-to-preparing-for-the-coding-interview-183251ee36c9)
+
 ## Datastructure
 
 [All about tree](https://www.codementor.io/leandrotk100/everything-you-need-to-know-about-tree-data-structures-pynnlkyud)
@@ -171,6 +174,10 @@ https://www.youtube.com/watch?v=wYk0xPP_P_8&list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5
 [All about algorithms](https://youtu.be/9TlHvipP5yA)
 
 [Tech Primers](https://youtu.be/Wa_q8C6Qo68)
+
+
+## Interview Formats
+[For many comapnies](https://github.com/yangshun/tech-interview-handbook/blob/master/non-technical/interview-formats.md)
 
 
 ## FAQ#1 : Difference between JWT (Java Web Tokens) & Oauth
