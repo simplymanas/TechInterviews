@@ -57,6 +57,10 @@
 
 [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
 
+## Deployment
+
+[Kubrnetes](https://cloud.google.com/kubernetes-engine/kubernetes-comic/)
+
 ## Coding
 
 [Interview Question - geekForgeek](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
