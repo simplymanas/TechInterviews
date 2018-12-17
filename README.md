@@ -97,6 +97,8 @@ the missing link you have been searching for
 
 [Vaidehi Joshi's world of Datastructure](https://medium.com/basecs)
 
+[When to use linkedlist over arraylist in java](https://stackoverflow.com/questions/322715/when-to-use-linkedlist-over-arraylist-in-java)
+
 ## DDD (Domain Driven Design)
 
 [How to define service industries](https://hackernoon.com/how-to-define-service-boundaries-251c4fc0f205)
