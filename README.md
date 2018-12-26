@@ -62,6 +62,10 @@ the missing link you have been searching for
 ## Distributed Systems
 
 [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
+### CAP Theorem [CAP by Shekhar Gulati](https://shekhargulati.com/2018/08/08/week-2-cap-theorem-for-application-developers/)
+* Consistency: Every read is guaranteed to return the most recent write or an error
+* Availability: Every request receives a non-error response from a non-failing node in a reasonable time. It is expected that the client may not receive the most recent write
+* Partition tolerance: The system continues to operate when network partition happens
 
 ## Deployment
 
