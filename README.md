@@ -181,11 +181,12 @@ https://www.youtube.com/watch?v=otWst36CKyM
 
 ## Online Videos
 
-https://www.youtube.com/watch?v=CtmBGH8MkX4
+[5 Tips for System Design Interviews](https://www.youtube.com/watch?v=CtmBGH8MkX4)
 
-https://www.youtube.com/watch?v=KmAyPUv9gOY&t=449s
+[System Design: How to design Twitter? Interview question at Facebook, Google, Microsoft](https://www.youtube.com/watch?v=KmAyPUv9gOY&t=449s)
 
-https://www.youtube.com/watch?v=wYk0xPP_P_8&list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV&index=3
+[Tech Dummies - Narendra L
+](https://www.youtube.com/watch?v=wYk0xPP_P_8&list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV&index=3)
 
 [All about algorithms](https://youtu.be/9TlHvipP5yA)
 
