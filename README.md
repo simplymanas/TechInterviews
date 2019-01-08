@@ -16,6 +16,8 @@ the missing link you have been searching for
 
 [Log System](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 
+[system-design-interview](https://github.com/checkcheckzz/system-design-interview)
+
 [High Scalability blog](http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html)
 
 [Systme desgin primer by donne martin](https://github.com/donnemartin/system-design-primer)
@@ -75,6 +77,8 @@ the missing link you have been searching for
 ## Coding
 
 [Interview Question - geekForgeek](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
+
+[Coding questions](https://github.com/checkcheckzz/coding-questions)
 
 [Interview Question - DonneMartin](https://github.com/donnemartin/interactive-coding-challenges)
 
