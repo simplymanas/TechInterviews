@@ -57,6 +57,8 @@ the missing link you have been searching for
 
 [Whatsapp Scaling](https://vimeo.com/44312354?_sm_au_=iVVV1H5rMRH7P7NQ)
 
+[Database Scaling](https://www.youtube.com/watch?v=dkhOZOmV7Fo)
+
 
 ## Microservices
 
