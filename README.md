@@ -145,6 +145,8 @@ https://www.youtube.com/watch?v=otWst36CKyM
 [10 JAVA interview question](https://dzone.com/articles/top-10-java-interview-questions-that-i-recently-fa?edition=385432&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=Weekly%20Digest%202018-08-29)
 [Java Interview question](https://www.edureka.co/blog/interview-questions/java-interview-questions/)
 
+[Core Java interview questions](https://www.journaldev.com/2366/core-java-interview-questions-and-answers?utm_source=newsletter&utm_medium=sendy&utm_campaign=emails)
+
 ## REST
 
 [RESTful APIs ](https://restfulapi.net/)
