@@ -12,6 +12,9 @@ the missing link you have been searching for
 
 #### This might be your next question...
 
+## Developers Roadmap
+[Roadmap to becoming a web developer in 2019](https://github.com/kamranahmedse/developer-roadmap)
+
 ## System Design
 
 [Log System](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
@@ -44,6 +47,8 @@ the missing link you have been searching for
 [Bloom Filter](https://hur.st/bloomfilter/)
 
 ### [How does HTTPS actually work?](https://robertheaton.com/2014/03/27/how-does-https-actually-work/)
+
+[Design Patterns](https://github.com/kamranahmedse/design-patterns-for-humans)
 
 ## Architecutre
 
