@@ -50,6 +50,9 @@ the missing link you have been searching for
 
 [Design Patterns](https://github.com/kamranahmedse/design-patterns-for-humans)
 
+
+### [How IPV4 subnetting works](https://serverfault.com/questions/49765/how-does-ipv4-subnetting-work)
+
 ## Architecutre
 
 [Cassandra](https://docs.datastax.com/en/archived/cassandra/2.1/cassandra/architecture/architectureIntro_c.html)
