@@ -46,6 +46,9 @@ the missing link you have been searching for
 
 [Bloom Filter](https://hur.st/bloomfilter/)
 
+[Overview of a compiler](https://www.codementor.io/erikeidt/overview-of-a-compiler-zayyljs2s?utm_swu=7179)
+
+
 ### [How does HTTPS actually work?](https://robertheaton.com/2014/03/27/how-does-https-actually-work/)
 
 [Design Patterns](https://github.com/kamranahmedse/design-patterns-for-humans)
