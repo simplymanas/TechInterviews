@@ -54,6 +54,14 @@ the missing link you have been searching for
 
 [Design Patterns](https://github.com/kamranahmedse/design-patterns-for-humans)
 
+## Events
+
+### [Difference between stream processing and message processing](https://stackoverflow.com/questions/41744506/difference-between-stream-processing-and-message-processing)
+
+### [kafka vs message queues](https://hackernoon.com/a-super-quick-comparison-between-kafka-and-message-queues-e69742d855a8)
+
+### [Streams vs Queues](http://docs.eventide-project.org/core-concepts/streams/streams-vs-queues.html)
+
 
 ### [How IPV4 subnetting works](https://serverfault.com/questions/49765/how-does-ipv4-subnetting-work)
 
@@ -77,6 +85,8 @@ the missing link you have been searching for
 [at amazon](https://docs.aws.amazon.com/aws-technical-content/latest/microservices-on-aws/introduction.html)
 
 ## Distributed Systems
+
+### [Dr. Martin Kleppmann University of Cambridge] (https://www.cl.cam.ac.uk/teaching/2021/ConcDisSys/dist-sys-slides.pdf)
 
 [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
 ### CAP Theorem [CAP by Shekhar Gulati](https://shekhargulati.com/2018/08/08/week-2-cap-theorem-for-application-developers/)
